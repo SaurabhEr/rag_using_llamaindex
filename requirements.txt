@@ -1,0 +1,10 @@
+llama-index
+openai
+pypdf
+python-dotenv
+ipykernel
+llama-index-llms-ollama
+numpy==1.24.3
+pdfplumber
+llama-index-embeddings-huggingface
+tabular
